@@ -7,8 +7,8 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: true
+    wysiwyg: false
     schema:
-      format: html
+      format: html-blocks
   label: Head Code
   description: Head Code
